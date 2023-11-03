@@ -16,3 +16,7 @@ Sample Response:
 "totalConvertedAmount": 650
 }
 ```
+
+Other URLs:
+http://localhost:8050/currency-conversion-rest-template/from/USD/to/INR/quantity/10
+http://localhost:8050/currency-conversion-feign/from/USD/to/INR/quantity/10
