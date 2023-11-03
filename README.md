@@ -5,7 +5,7 @@ Currency Conversion Service project using Spring Boot - 03.Nov.2023
 URL: http://localhost:8050/currency-conversion/from/USD/to/INR/quantity/10
 
 Sample Response:
-<code>
+```json
 {
 "codeId": 1001,
 "codeFrom": "USD",
@@ -15,4 +15,4 @@ Sample Response:
 "quantity": 10,
 "totalConvertedAmount": 650
 }
-</code>
+```
