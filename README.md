@@ -18,5 +18,9 @@ Sample Response:
 ```
 
 Other URLs:
+
+Based on Rest Template microservice client invocation by hard coding the URL: 
 http://localhost:8050/currency-conversion-rest-template/from/USD/to/INR/quantity/10
+
+Feign Rest Client with hard coded URLs:
 http://localhost:8050/currency-conversion-feign/from/USD/to/INR/quantity/10
